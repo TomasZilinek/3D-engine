@@ -13,5 +13,5 @@ You can easily add new shapes and also animations but I just created 1 cube back
 - [Tomáš Žilínek](https://www.linkedin.com/in/tomaszilinek)
 
 ![sketch](nacrt.png)
-![sketch](Screenshots/3D-engine1.png)
-![sketch](Screenshots/3D-engine2.png)
+![screenshot1](Screenshots/3D-engine1.png)
+![screenshot2](Screenshots/3D-engine2.png)
