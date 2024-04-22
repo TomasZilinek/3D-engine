@@ -4,7 +4,7 @@ This is an old high school project. I was experimenting with drawing and I was w
 
 You can easily add new shapes and also animations but I just created 1 cube back then. I also wanted to make the shapes have solid walls with colors but this turned out to be out of my league because I sucked at math (relatively said).
 
-# Requirements
+## Requirements
  - Python 3
  - pygame
  - probably only runnable on Windows
